@@ -1,7 +1,6 @@
-# Machine-Learning Project 1
 **World Happiness Report 2024 Analysis** 
 
-Built a predictive model for Happiness Score using regression techniques, conducted exploratory data analysis (EDA), data cleaning, preprocessing, and created visualizations.
+Built a predictive model for Happiness Score using machine learning regression techniques, conducted exploratory data analysis (EDA), data cleaning, preprocessing, and created visualizations.
 
 **The “Multiple Linear Regression” model performs better overall than the polynomial regression model, as evidenced by its higher R², lower MSE, RMSE, and MAE values.**
                      
